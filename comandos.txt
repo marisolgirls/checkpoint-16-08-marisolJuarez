@@ -1,0 +1,10 @@
+git clone
+git commit -m "commit 01 MarisolJuarez"
+git push origin main
+git branch feature
+git checkout feature
+git add .
+git commit -m "commit 02 Marisol juarez"
+git push origin feature
+git branch
+git checkout main
